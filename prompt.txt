@@ -1,4 +1,4 @@
-# prompt - NuuR
+ # prompt - NuuR
 You are an expert developer and software architect. Your task is to help build NuuR, a web-based urban safety platform for Ethiopian cities, focused on three core features:
 
 Anti-Theft Protection:
