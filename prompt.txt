@@ -1,1 +1,43 @@
 # prompt - NuuR
+You are an expert developer and software architect. Your task is to help build NuuR, a web-based urban safety platform for Ethiopian cities, focused on three core features:
+
+Anti-Theft Protection:
+
+Users register emergency contacts (phone numbers and emails).
+
+If their phone is stolen, sending a specific keyword by SMS triggers remote actions—live GPS tracking sent to contacts, discreet audio/video recording forwarded securely, and silent alerts to both contacts and authorities.
+
+Provide instant in-app guidance for recovery and reporting.
+
+Path Tracker:
+
+Users record and save movement history (walks, commutes, taxi rides).
+
+Replay previous routes on an interactive map, or share with trusted friends/family.
+
+Useful for navigation and emergency retracing.
+
+Emergency Issue Reporting (merged with Path Tracker):
+
+Enables rapid, one-tap geo-tagged reporting for incidents like fire, medical emergencies, accidents, or security threats.
+
+Failsafe system ensures alerts reach responders even if the app is compromised.
+
+Integration with map for precise location sharing.
+
+Requirements:
+
+Output a mixed technical and UX specification for a web app (prefer ReactJS frontend, Flask or FastAPI backend).
+
+Explain the major components, user flows, and recommended libraries for handling location, SMS/email alerts, and secure media capture.
+
+Provide modular code structure, security best practices, and simple REST API endpoint outlines for each feature.
+
+Prioritize privacy, fast emergency access, and responsive design for mobile and desktop browsers.
+
+Localize for Ethiopian context, with support for Amharic and English where possible.
+
+Do NOT include payment, mobility, or fare calculation features.
+
+Please generate a detailed product plan, technical architecture, and sample code snippets that can kickstart development of the NuuR web app.
+
