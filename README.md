@@ -1,103 +1,57 @@
 
 ## NuuR: Urban Light for Safety, Trust & Mobility
 
-## Problem Statement
+***
 
-**Urban residents and travelers, especially in rapidly growing regions like Ethiopia, face daily risks from smartphone theft, unreliable navigation, financial fraud, slow emergency responses, and uncertain urban mobility.**
+### Problem Statement
 
-- **Phone theft** leads to the loss of devices, critical information, and personal security, often leaving victims without recourse or help.
-    
-- **Navigational challenges** for newcomers make it easy to get lost, feel unsafe, and struggle to return to familiar or important places.
-    
-- **Mobile payment fraud** and transparency barriers mean it’s difficult to confirm if financial transactions are legitimate.
-    
-- **Emergency reporting** is often slow and complicated, with many unable to quickly alert responders during accidents, disasters, or assaults.
-    
-- **Urban transport costs** and reliability issues frustrate users seeking fair, safe, and affordable rides.
-    
+Urban residents and travelers—especially in rapidly growing regions like Ethiopia—face daily risks from smartphone theft, unreliable navigation, slow or ineffective emergency responses, and unsafe urban environments.  
+- **Phone theft** not only deprives victims of valuable devices, but can also compromise critical information and personal safety, often leaving users with no recourse.  
+- **Navigational challenges**—particularly for newcomers—make it easy to get lost, feel unsafe, and struggle to return to important places or seek help.  
+- **Emergency situations** such as accidents, fires, or medical incidents demand fast, geo-tagged reports, but most systems are slow or inaccessible in moments of crisis.  
+These issues threaten safety, confidence, and the overall urban experience for millions of people in cities.
 
-These problems threaten safety, financial confidence, and the overall urban experience for millions of youth, families, and commuters.
+***
 
----
+### Solution Overview
 
-## Solution Overview
+**NuuR** is an intelligent platform designed to bring “light” to urban living through innovative safety solutions tailored for Ethiopian cities and beyond, empowering users with:
 
-**NuuR** is an all-in-one mobile platform bringing “light” to urban living through safety, trust, and seamless mobility. With local context for Ethiopia and broader Africa, NuuR empowers users through these smart features:
+#### 1. Anti-Theft Protection
 
-## 1. Anti-Theft Protection
+- **Emergency Contacts:** Register trusted phone numbers and email addresses.
+- **Remote Actions:** If a phone is stolen, sending a custom keyword by text triggers automatic protective actions, including:
+  - **Live GPS Tracking:** Instantly sends the device's real-time location to authorized contacts.
+  - **Discreet Audio/Video Capture:** Records audio or video evidence and securely forwards it to emergency contacts.
+  - **Silent Alerts:** Notifies both contacts and authorities without alerting the phone thief.
+- **Recovery Support:** Provides instant, step-by-step guidance to victims and helpers for maximizing the chance of recovery and reporting.
 
-- **Emergency Contacts:** Register trusted numbers/emails.
-    
-- **Remote Actions:** If the phone is stolen, texting an emergency keyword to your own number triggers automatic actions:
-    
-    - **Live GPS Tracking:** Instantly sends the phone’s location to emergency contacts.
-        
-    - **Discreet Audio/Video Capture:** Records and sends real-time media evidence.
-        
-    - **Silent Alerts:** Notifies contacts and authorities without tipping off the thief.
-        
-- **Recovery Support:** Instantly guides victims and helpers through evidence gathering and official reporting.
-    
+#### 2. Path Tracker
 
-## 2. Path Tracker
+- **Footstep Logging:** Easily record and replay your movement history (walks, commutes, taxi rides).
+- **Playback and Sharing:** Restore lost routes, retrace your way safely, or share paths with friends and family for peace of mind.
+- **Ideal for:** Newcomers, daily commuters, and emergency navigation.
 
-- **Footstep Logging:** Easily save and replay movement history—walks, commutes, taxi rides.
-    
-- **Playback and Sharing:** Safeguard your routes, retrace for safety, or share with family and friends.
-    
-- **Ideal for new city explorers, commuters, and emergency situations.**
-    
+#### 3. Emergency Issue Reporting (Merged with Path Tracker)
 
-## 3. Payment Verification
+- **Rapid Alerts:** One-tap, geo-tagged reporting for incidents such as fire, medical emergencies, accidents, or security threats.
+- **Failsafe Notifications:** Alerts reach responders and trusted contacts instantly—even if the app itself is compromised.
+- **Location Integration:** Accurate map-based sharing to enable the fastest help possible.
 
-- **Instant Transaction Check:** Enter a bank or mobile money reference and verify legitimacy instantly.
-    
-- **Supported Banks:** Includes Ethiopia’s major financial institutions.
-    
-- **Transparent Details:** See confirmation, amount, sender/receiver, and more.
-    
+***
 
-## 4. Emergency Issue Reporting
+### Impact & Usefulness
 
-- **Rapid Alerts:** One-tap reporting for fires, medical emergencies, accidents, and disasters.
-    
-- **Geo-tagged, failsafe notifications:** Alerts reach responders instantly—even if the app is compromised.
-    
-- **Location integration powers fast rescue.**
-    
+**NuuR matters because it:**
+- Restores user control and safety after mobile theft, offering hope and real solutions.
+- Enables confident navigation, reduces risk, and empowers users in unfamiliar environments.
+- Saves lives with instant, location-based emergency alerts and proactive reporting.
+- Tailors cutting-edge safety technology to local Ethiopian and African contexts—scalable, adaptable, and vital in any city.
+- Demonstrates real innovation, empathy, and practical value—ideal for hackathons, civic tech, and real-life adoption.
 
-## 5. Urban Mobility & Fares
+***
 
-- **Taxi Fare Calculator:** Real-time fares from city transport authority.
-    
-- **Trusted Driver Marketplace:** Verified drivers, best prices, community ratings.
-    
-- **Carrier Matching:** Find safe, affordable delivery and logistics partners.
-    
+### One-Paragraph Pitch
 
----
+**NuuR is an intelligent safety platform engineered for urban life. With anti-theft protection, path tracking, and emergency incident reporting, NuuR empowers users to quickly respond to theft, safely navigate new or challenging environments, and instantly call for help when emergencies strike. Designed for Ethiopian cities and scalable globally, NuuR brings peace of mind and modern security into every pocket.**
 
-## Impact & Usefulness
-
-**Why NuuR matters:**
-
-- **Restores user control** after theft, giving hope and concrete recovery steps.
-    
-- **Empowers safe navigation** and builds confidence for all users—students, families, travelers.
-    
-- **Prevents financial fraud** and improves trust in digital transactions.
-    
-- **Saves lives in emergencies** with rapid, geo-targeted alerts.
-    
-- **Makes daily mobility transparent** and affordable.
-    
-- **Localized for Ethiopian context, scalable for Africa and beyond.**
-    
-- **Demonstrates technical innovation, strong social empathy, and local utility—perfect for hackathon judges!**
-    
-
----
-
-## One-Paragraph Pitch
-
-**NuuR is a multi-functional mobile app that brings “light” to urban living through robust anti-theft protection, path tracking, instant payment verification, rapid emergency reporting, and transparent mobility tools. Locally integrated and user-focused, NuuR empowers people in Ethiopia and beyond to safeguard their phones, their journeys, their finances, and their well-being—all in one secure, easy-to-use app.**
