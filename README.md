@@ -1,8 +1,11 @@
 # NuuR - Urban Safety Platform for Ethiopian Cities
 
+
+
+
 ## Overview
 
-NuuR is a comprehensive web-based safety platform designed for Ethiopian urban environments, providing three core safety features:
+NuuR is a comprehensive web-based safety platform designed for Ethiopian urban environments,that can't get urbans technology providing three core safety features:
 
 1. **Anti-Theft Protection** - SMS-triggered remote tracking and alert system
 2. **Path Tracker** - Movement history recording and route replay
@@ -287,3 +290,4 @@ MIT License - See LICENSE file for details.
 ## Support
 
 For issues and questions, please use GitHub Issues or contact support@nuur.et
+
