@@ -1,0 +1,190 @@
+{
+  "app": {
+    "name": "NuuR",
+    "tagline": "Your Safety, Our Priority"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "antiTheft": "Anti-Theft",
+    "pathTracker": "Path Tracker",
+    "emergency": "Emergency",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "landing": {
+    "hero": {
+      "title": "Stay Safe in Ethiopian Cities",
+      "subtitle": "Comprehensive safety platform with anti-theft protection, path tracking, and emergency reporting",
+      "ctaLogin": "Login",
+      "ctaRegister": "Get Started"
+    },
+    "features": {
+      "title": "Safety Features",
+      "antiTheft": {
+        "title": "Anti-Theft Protection",
+        "description": "SMS-triggered remote tracking, audio/video recording, and instant alerts to your emergency contacts"
+      },
+      "pathTracker": {
+        "title": "Path Tracker",
+        "description": "Record your routes, replay movements, and share your location with trusted contacts"
+      },
+      "emergency": {
+        "title": "Emergency Reporting",
+        "description": "One-tap incident reporting with automatic location capture and multi-channel alerts"
+      }
+    }
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "phone": "Phone Number",
+    "password": "Password",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "loginSuccess": "Login successful!",
+    "registerSuccess": "Registration successful!",
+    "loginError": "Login failed. Please check your credentials.",
+    "registerError": "Registration failed. Please try again."
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "antiTheftStatus": "Anti-Theft Status",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "recentPaths": "Recent Paths",
+    "recentReports": "Recent Emergency Reports",
+    "quickActions": "Quick Actions",
+    "setupAntiTheft": "Setup Anti-Theft",
+    "startTracking": "Start Path Tracking",
+    "reportEmergency": "Report Emergency"
+  },
+  "antiTheft": {
+    "title": "Anti-Theft Protection",
+    "setup": "Setup",
+    "configure": "Configure Anti-Theft",
+    "triggerKeyword": "Trigger Keyword",
+    "enableGPS": "Enable GPS Tracking",
+    "enableAudio": "Enable Audio Recording",
+    "enableVideo": "Enable Video Recording",
+    "trackingInterval": "Tracking Interval (seconds)",
+    "recordingDuration": "Recording Duration (minutes)",
+    "emergencyContacts": "Emergency Contacts",
+    "addContact": "Add Contact",
+    "contactName": "Contact Name",
+    "contactPhone": "Phone Number",
+    "contactEmail": "Email (optional)",
+    "relationship": "Relationship",
+    "priority": "Priority",
+    "active": "Active",
+    "inactive": "Inactive",
+    "status": "Status",
+    "lastTriggered": "Last Triggered",
+    "viewHistory": "View History",
+    "testTrigger": "Test Trigger",
+    "saveSettings": "Save Settings",
+    "settingsSaved": "Settings saved successfully",
+    "contactAdded": "Contact added successfully"
+  },
+  "pathTracker": {
+    "title": "Path Tracker",
+    "startTracking": "Start Tracking",
+    "stopTracking": "Stop Tracking",
+    "currentPath": "Current Path",
+    "pathHistory": "Path History",
+    "pathName": "Path Name",
+    "pathType": "Path Type",
+    "types": {
+      "walk": "Walk",
+      "commute": "Commute",
+      "taxi": "Taxi",
+      "other": "Other"
+    },
+    "distance": "Distance",
+    "duration": "Duration",
+    "avgSpeed": "Average Speed",
+    "viewPath": "View Path",
+    "sharePath": "Share Path",
+    "deletePath": "Delete Path",
+    "shareWith": "Share With",
+    "shareEmail": "Email Address",
+    "sharePhone": "Phone Number",
+    "expiresIn": "Expires In",
+    "hours": "hours",
+    "shareSuccess": "Path shared successfully",
+    "trackingStarted": "Tracking started",
+    "trackingStopped": "Tracking stopped"
+  },
+  "emergency": {
+    "title": "Emergency Reporting",
+    "reportIncident": "Report Incident",
+    "incidentType": "Incident Type",
+    "types": {
+      "fire": "Fire",
+      "medical": "Medical Emergency",
+      "accident": "Accident",
+      "security": "Security Threat",
+      "other": "Other"
+    },
+    "severity": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High",
+      "critical": "Critical"
+    },
+    "location": "Location",
+    "useCurrentLocation": "Use Current Location",
+    "description": "Description",
+    "addPhoto": "Add Photo",
+    "submitReport": "Submit Report",
+    "reportAnonymously": "Report Anonymously",
+    "status": {
+      "pending": "Pending",
+      "acknowledged": "Acknowledged",
+      "responding": "Responding",
+      "resolved": "Resolved",
+      "cancelled": "Cancelled"
+    },
+    "myReports": "My Reports",
+    "reportSuccess": "Emergency report submitted successfully",
+    "reportError": "Failed to submit report"
+  },
+  "profile": {
+    "title": "Profile",
+    "personalInfo": "Personal Information",
+    "language": "Language",
+    "english": "English",
+    "amharic": "Amharic",
+    "updateProfile": "Update Profile",
+    "changePassword": "Change Password",
+    "emergencyContacts": "Emergency Contacts",
+    "settings": "Settings",
+    "notifications": "Notifications",
+    "privacy": "Privacy",
+    "about": "About",
+    "version": "Version",
+    "profileUpdated": "Profile updated successfully"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "confirm": "Confirm",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "noData": "No data available",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "viewDetails": "View Details",
+    "back": "Back"
+  }
+}
+

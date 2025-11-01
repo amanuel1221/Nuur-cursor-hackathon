@@ -1,0 +1,190 @@
+{
+  "app": {
+    "name": "ኑር",
+    "tagline": "እርስዎ ደህንነት፣ የእኛ ቅድሚያ"
+  },
+  "nav": {
+    "dashboard": "መሪ ገጽ",
+    "antiTheft": "ስርቆት መከላከያ",
+    "pathTracker": "መንገድ ተከታታይ",
+    "emergency": "አደጋ",
+    "profile": "መገለጫ",
+    "logout": "ውጣ"
+  },
+  "landing": {
+    "hero": {
+      "title": "በኢትዮጵያ ከተሞች ደህንነቱ ይጠበቁ",
+      "subtitle": "የስርቆት መከላከያ፣ የመንገድ መከታተል እና የአደጋ ጊዜ ሪፖርት ያለው አጠቃላይ የደህንነት መድረክ",
+      "ctaLogin": "ግባ",
+      "ctaRegister": "ይጀምሩ"
+    },
+    "features": {
+      "title": "የደህንነት ባህሪዎች",
+      "antiTheft": {
+        "title": "ስርቆት መከላከያ",
+        "description": "በኤስኤምኤስ የሚነቃቃ የርቀት ክትትል፣ የድምጽ/ቪዲዮ ቀረጻ እና ለድንገተኛ እውቂያዎችዎ ፈጣን ማንቂያዎች"
+      },
+      "pathTracker": {
+        "title": "መንገድ ተከታታይ",
+        "description": "መንገዶችዎን ይመዝግቡ፣ እንቅስቃሴዎችን እንደገና ያጫውቱ፣ እና በታመኑት እውቂያዎች ቦታዎን ያጋሩ"
+      },
+      "emergency": {
+        "title": "የአደጋ ጊዜ ሪፖርት",
+        "description": "በአንድ ንኪ የአደጋ ጊዜ ሪፖርት ከራስሰር ቦታ ማንሳት እና የብዙ ቻናሎች ማንቂያዎች ጋር"
+      }
+    }
+  },
+  "auth": {
+    "login": "ግባ",
+    "register": "ይመዝገቡ",
+    "email": "ኢሜይል",
+    "phone": "ስልክ ቁጥር",
+    "password": "የይለፍ ቃል",
+    "firstName": "የመጀመሪያ ስም",
+    "lastName": "የአባት ስም",
+    "confirmPassword": "የይለፍ ቃል ያረጋግጡ",
+    "forgotPassword": "የይለፍ ቃል ረስተዋል?",
+    "noAccount": "መለያ የለዎትም?",
+    "haveAccount": "መለያ አለዎት?",
+    "loginSuccess": "መግባት ተሳክቷል!",
+    "registerSuccess": "ምዝገባ ተሳክቷል!",
+    "loginError": "መግባት አልተሳካም። እባክዎ ምስክር ወረቀቶችዎን ይፈትሹ።",
+    "registerError": "ምዝገባ አልተሳካም። እባክዎ እንደገና ይሞክሩ።"
+  },
+  "dashboard": {
+    "welcome": "እንኳን ደህና መጡ",
+    "antiTheftStatus": "የስርቆት መከላከያ ሁኔታ",
+    "enabled": "ነቅቷል",
+    "disabled": "ተሰናክሏል",
+    "recentPaths": "የቅርብ ጊዜ መንገዶች",
+    "recentReports": "የቅርብ ጊዜ የአደጋ ሪፖርቶች",
+    "quickActions": "ፈጣን እርምጃዎች",
+    "setupAntiTheft": "ስርቆት መከላከያ ያዋቅሩ",
+    "startTracking": "መንገድ መከታተል ይጀምሩ",
+    "reportEmergency": "አደጋ ሪፖርት ያድርጉ"
+  },
+  "antiTheft": {
+    "title": "ስርቆት መከላከያ",
+    "setup": "ማዋቀር",
+    "configure": "ስርቆት መከላከያ ያዋቅሩ",
+    "triggerKeyword": "አነቃቂ ቃል",
+    "enableGPS": "ጂፒኤስ ክትትል አንቃ",
+    "enableAudio": "የድምጽ ቀረጻ አንቃ",
+    "enableVideo": "የቪዲዮ ቀረጻ አንቃ",
+    "trackingInterval": "የክትትል ክፍተት (ሰከንዶች)",
+    "recordingDuration": "የቀረጻ ጊዜ (ደቂቃዎች)",
+    "emergencyContacts": "የአደጋ እውቂያዎች",
+    "addContact": "እውቂያ ጨምር",
+    "contactName": "የእውቂያ ስም",
+    "contactPhone": "ስልክ ቁጥር",
+    "contactEmail": "ኢሜይል (አማራጭ)",
+    "relationship": "ግንኙነት",
+    "priority": "ቅድሚያ",
+    "active": "ንቁ",
+    "inactive": "ንቁ ያልሆነ",
+    "status": "ሁኔታ",
+    "lastTriggered": "መጨረሻ ነቅቷል",
+    "viewHistory": "ታሪክ ይመልከቱ",
+    "testTrigger": "ሙከራ አንቃ",
+    "saveSettings": "ቅንብሮች አስቀምጥ",
+    "settingsSaved": "ቅንብሮች በተሳካ ሁኔታ ተቀምጠዋል",
+    "contactAdded": "እውቂያ በተሳካ ሁኔታ ታክሏል"
+  },
+  "pathTracker": {
+    "title": "መንገድ ተከታታይ",
+    "startTracking": "ክትትል ጀምር",
+    "stopTracking": "ክትትል አቁም",
+    "currentPath": "የአሁኑ መንገድ",
+    "pathHistory": "የመንገድ ታሪክ",
+    "pathName": "የመንገድ ስም",
+    "pathType": "የመንገድ ዓይነት",
+    "types": {
+      "walk": "የእግር ጉዞ",
+      "commute": "የእለት ተእለት ጉዞ",
+      "taxi": "ታክሲ",
+      "other": "ሌላ"
+    },
+    "distance": "ርቀት",
+    "duration": "ቆይታ",
+    "avgSpeed": "አማካይ ፍጥነት",
+    "viewPath": "መንገድ ይመልከቱ",
+    "sharePath": "መንገድ ያጋሩ",
+    "deletePath": "መንገድ ይሰርዙ",
+    "shareWith": "ከ ጋር ያጋሩ",
+    "shareEmail": "የኢሜይል አድራሻ",
+    "sharePhone": "ስልክ ቁጥር",
+    "expiresIn": "ያልቃል በ",
+    "hours": "ሰዓቶች",
+    "shareSuccess": "መንገድ በተሳካ ሁኔታ ተጋርቷል",
+    "trackingStarted": "ክትትል ተጀምሯል",
+    "trackingStopped": "ክትትል ቆሟል"
+  },
+  "emergency": {
+    "title": "የአደጋ ጊዜ ሪፖርት",
+    "reportIncident": "ክስተት ሪፖርት ያድርጉ",
+    "incidentType": "የክስተት ዓይነት",
+    "types": {
+      "fire": "እሳት",
+      "medical": "የጤና አደጋ",
+      "accident": "አደጋ",
+      "security": "የደህንነት ስጋት",
+      "other": "ሌላ"
+    },
+    "severity": {
+      "low": "ዝቅተኛ",
+      "medium": "መካከለኛ",
+      "high": "ከፍተኛ",
+      "critical": "አደገኛ"
+    },
+    "location": "ቦታ",
+    "useCurrentLocation": "የአሁኑን ቦታ ይጠቀሙ",
+    "description": "መግለጫ",
+    "addPhoto": "ፎቶ ጨምር",
+    "submitReport": "ሪፖርት አስገባ",
+    "reportAnonymously": "በማንነት ሳይታወቅ ሪፖርት ያድርጉ",
+    "status": {
+      "pending": "በመጠባበቅ ላይ",
+      "acknowledged": "ተቀብሏል",
+      "responding": "በማምጣት ላይ",
+      "resolved": "ተፈትቷል",
+      "cancelled": "ተሰርዟል"
+    },
+    "myReports": "የእኔ ሪፖርቶች",
+    "reportSuccess": "የአደጋ ጊዜ ሪፖርት በተሳካ ሁኔታ ገብቷል",
+    "reportError": "ሪፖርት ማስገባት አልተሳካም"
+  },
+  "profile": {
+    "title": "መገለጫ",
+    "personalInfo": "የግል መረጃ",
+    "language": "ቋንቋ",
+    "english": "እንግሊዝኛ",
+    "amharic": "አማርኛ",
+    "updateProfile": "መገለጫ አዘምን",
+    "changePassword": "የይለፍ ቃል ይቀይሩ",
+    "emergencyContacts": "የአደጋ እውቂያዎች",
+    "settings": "ቅንብሮች",
+    "notifications": "ማሳወቂያዎች",
+    "privacy": "ግላዊነት",
+    "about": "ስለ",
+    "version": "ስሪት",
+    "profileUpdated": "መገለጫ በተሳካ ሁኔታ ዘምኗል"
+  },
+  "common": {
+    "save": "አስቀምጥ",
+    "cancel": "ሰርዝ",
+    "delete": "ሰርዝ",
+    "edit": "አርትዕ",
+    "close": "ዝጋ",
+    "confirm": "አረጋግጥ",
+    "loading": "በመጫን ላይ...",
+    "error": "ስህተት",
+    "success": "ተሳክቷል",
+    "noData": "ምንም መረጃ የለም",
+    "search": "ፈልግ",
+    "filter": "ማጣሪያ",
+    "sort": "አደራጅ",
+    "viewDetails": "ዝርዝር ይመልከቱ",
+    "back": "ተመለስ"
+  }
+}
+
